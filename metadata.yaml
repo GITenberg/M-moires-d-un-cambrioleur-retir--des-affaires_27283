@@ -1,0 +1,29 @@
+_repo: M-moires-d-un-cambrioleur-retir--des-affaires_27283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galopin, Arnould
+    alias: Galopen, Arnold
+    birthdate: 1865
+    deathdate: 1934
+    gutenberg_agent_id: '32594'
+    url: http://www.gutenberg.org/2009/agents/32594
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27283'
+  lccn: '23006711'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+title: Mémoires d'un cambrioleur retiré des affaires
+url: http://www.gutenberg.org/ebooks/27283
