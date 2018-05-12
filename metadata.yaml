@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32594'
     url: http://www.gutenberg.org/2009/agents/32594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27283#M-moires-d-un-cambrioleur-retir--des-affaires
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-11-16'
 gutenberg_type: Text
